@@ -55,7 +55,7 @@ Overall, this code uses computer vision libraries to perform real-time gender de
     <hr></hr>
     <a><img width="100%" height="auto" src="https://github.com/hariprasad-ms/Realtime-Gender-Detection/blob/main/Result/Test-Male.png" height="175px"/></a>
     <details><summary>Read more...</summary></br>
-    <p>It is hereby shown that the model was able to sucessfully predict if iam a male or not. The percentage value visible is the confidence of prediction.<hr></hr></p></details>
+    <p>It is hereby shown that the model was able to sucessfully predict if iam a male or female. The percentage value visible is the confidence of prediction.<hr></hr></p></details>
 
 ---
 
